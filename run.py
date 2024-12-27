@@ -13,6 +13,7 @@ storage = MemoryStorage()
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(storage=storage)
+# run this bro
 
 
 async def main():
