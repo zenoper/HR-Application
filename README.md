@@ -2,7 +2,6 @@
 
 An application that helps automate the process of filling out document templates. The application takes a .docx template file and replaces placeholders with provided data.
 
-## Features
 
 - Process .docx template files
 - Replace placeholders ($1, $2, etc.) with user-provided data
