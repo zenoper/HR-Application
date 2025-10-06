@@ -7,7 +7,7 @@ An application that helps automate the process of filling out document templates
 - Replace placeholders ($1, $2, etc.) with user-provided data
 - Support for multiple admin notifications
 - Rate limiting to prevent abuse
-- Easy-to-use interface
+- Easy-to-use interf
 
 ## Setup
 
